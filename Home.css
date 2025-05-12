@@ -1,5 +1,6 @@
  .u-section-1 {
-  background-image: url("/images/high1.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2Fhigh1.png?alt=media&token=4f6be757-067b-4c18-b51d-80bbecc182fa");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -13,7 +14,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 664px;
-  background-image: url("/images/RedModernFormalFacebookProfilePicture9.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2FRedModernFormalFacebookProfilePicture9.png?alt=media&token=5ad16702-e44e-4fe6-bd48-803b2fed2492");
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -64,10 +65,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 443px;
   }
@@ -223,7 +220,7 @@
     margin-top: 1166px;
   }
 } .u-section-2 {
-  background-image: url("/images/high4.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2Fhigh4.png?alt=media&token=c7d5f48d-7cfd-4a34-8248-ff5e517820af");
   background-position: 50% 50%;
 }
 
@@ -278,7 +275,7 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 551px;
+    min-height: 462px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
@@ -316,7 +313,7 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 412px;
+    min-height: 355px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
@@ -357,7 +354,7 @@
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 919px;
+    min-height: 1135px;
   }
 
   .u-section-2 .u-layout-cell-1 {
@@ -391,7 +388,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 663px;
+    min-height: 717px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
@@ -430,7 +427,8 @@
     margin-left: -167px;
   }
 } .u-section-3 {
-  background-image: url("/images/high8.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2Fhigh8.png?alt=media&token=a5154560-3561-4559-8864-50a17b0540b5");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -474,10 +472,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-3 {
-    background-position: 50% 50%;
-  }
-
   .u-section-3 .u-layout-wrap-1 {
     position: relative;
     width: 940px;
@@ -571,7 +565,7 @@
     width: auto;
   }
 } .u-section-4 {
-  background-image: url("/images/high9.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2Fhigh9.png?alt=media&token=2cc99cd1-503f-4727-b0ee-955d696e2751");
   background-position: 50% 50%;
 }
 
@@ -652,7 +646,7 @@
     margin-left: initial;
   }
 } .u-section-5 {
-  background-image: url("/images/high9.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2Fhigh9.png?alt=media&token=2cc99cd1-503f-4727-b0ee-955d696e2751");
   background-position: 50% 50%;
 }
 
@@ -712,7 +706,7 @@
     width: auto;
   }
 } .u-section-6 {
-  background-image: url("/images/high9.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2Fhigh9.png?alt=media&token=2cc99cd1-503f-4727-b0ee-955d696e2751");
   background-position: 50% 50%;
 }
 
@@ -782,18 +776,12 @@
 .u-section-7 .u-image-1 {
   width: 968px;
   height: 968px;
-  margin: 0 -302px 0 auto;
-}
-
-.u-section-7 .u-image-2 {
-  width: 968px;
-  height: 968px;
-  margin: -980px auto 0 -303px;
+  margin: -23px auto 0 -303px;
 }
 
 .u-section-7 .u-list-1 {
   grid-template-rows: auto auto auto;
-  margin: -721px 0 0;
+  margin: -709px 0 0;
 }
 
 .u-section-7 .u-repeater-1 {
@@ -807,10 +795,10 @@
   padding: 30px 30px 0;
 }
 
-.u-section-7 .u-image-3 {
+.u-section-7 .u-image-2 {
   width: 197px;
   height: 197px;
-  background-image: url("/images/RedModernFormalFacebookProfilePicture3.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2FRedModernFormalFacebookProfilePicture3.png?alt=media&token=206485eb-21bd-4001-b3e4-fec62a23d6e2");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-translate_y: 0px;
@@ -850,11 +838,10 @@
   padding: 30px 30px 0;
 }
 
-.u-section-7 .u-image-4 {
+.u-section-7 .u-image-3 {
   width: 197px;
   height: 197px;
-  background-image: url("/images/RedModernFormalFacebookProfilePicture4.png");
-  background-position: 50% 50%;
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2FRedModernFormalFacebookProfilePicture4.png?alt=media&token=94169a92-86b5-411a-b541-e3693f7ff742");  background-position: 50% 50%;
   animation-duration: 1000ms;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-translate_y: 0px;
@@ -894,10 +881,10 @@
   padding: 30px 30px 0;
 }
 
-.u-section-7 .u-image-5 {
+.u-section-7 .u-image-4 {
   width: 197px;
   height: 197px;
-  background-image: url("/images/channels4_profile1.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2Fchannels4_profile1.png?alt=media&token=d0645b55-a5b5-4988-88eb-3add725d3ee9");
   background-position: 50% 50%;
   animation-duration: 1000ms;
   --animation-custom_in-translate_x: -200px;
@@ -938,10 +925,10 @@
   padding: 30px 30px 0;
 }
 
-.u-section-7 .u-image-6 {
+.u-section-7 .u-image-5 {
   width: 197px;
   height: 197px;
-  background-image: url("/images/RedModernFormalFacebookProfilePicture7.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2FRedModernFormalFacebookProfilePicture7.png?alt=media&token=5bd78e9c-8738-4f36-97db-7c2b21de410f");
   background-position: 50% 50%;
   animation-duration: 1000ms;
   --animation-custom_in-translate_x: -200px;
@@ -982,10 +969,10 @@
   padding: 30px 30px 0;
 }
 
-.u-section-7 .u-image-7 {
+.u-section-7 .u-image-6 {
   width: 197px;
   height: 197px;
-  background-image: url("/images/shref.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2Fshref.png?alt=media&token=01aa995e-68f5-46db-aa9c-4082ef0a70d1");
   background-position: 50% 50%;
   animation-duration: 1000ms;
   --animation-custom_in-translate_x: -200px;
@@ -1022,28 +1009,34 @@
   margin: 28px 0 0;
 }
 
-.u-section-7 .u-image-8 {
-  width: 968px;
-  height: 968px;
-  margin: -1264px auto 0;
-}
-
-.u-section-7 .u-image-9 {
+.u-section-7 .u-image-7 {
   width: 833px;
   height: 833px;
-  margin: -344px auto 0;
+  margin: -640px auto 0;
 }
 
-.u-section-7 .u-image-10 {
+.u-section-7 .u-image-8 {
   width: 743px;
   height: 743px;
   margin: -795px auto 0 -191px;
 }
 
+.u-section-7 .u-image-9 {
+  width: 968px;
+  height: 968px;
+  margin: -1393px -302px 0 auto;
+}
+
+.u-section-7 .u-image-10 {
+  width: 968px;
+  height: 968px;
+  margin: -980px auto 0;
+}
+
 .u-section-7 .u-image-11 {
   width: 1059px;
   height: 1059px;
-  margin: -1391px auto 60px 36px;
+  margin: -948px auto 60px;
 }
 
 @media (max-width: 1199px) {
@@ -1052,19 +1045,10 @@
   }
 
   .u-section-7 .u-image-1 {
-    width: 841px;
-    height: 841px;
-    margin-top: 50px;
-    margin-right: -271px;
-  }
-
-  .u-section-7 .u-image-2 {
-    margin-top: -905px;
-    margin-left: -335px;
+    margin-left: -332px;
   }
 
   .u-section-7 .u-list-1 {
-    margin-top: -719px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -1080,7 +1064,7 @@
     padding-right: 10px;
   }
 
-  .u-section-7 .u-image-3 {
+  .u-section-7 .u-image-2 {
     animation-duration: 1000ms;
   }
 
@@ -1104,24 +1088,31 @@
     padding-right: 10px;
   }
 
+  .u-section-7 .u-image-7 {
+    margin-top: -604px;
+  }
+
   .u-section-7 .u-image-8 {
-    width: 799px;
-    height: 799px;
-    margin-top: -1115px;
+    margin-top: -783px;
+    margin-left: -225px;
   }
 
   .u-section-7 .u-image-9 {
-    margin-top: -279px;
+    margin-top: -1332px;
+    margin-right: -349px;
   }
 
   .u-section-7 .u-image-10 {
-    margin-top: -788px;
-    margin-left: -222px;
+    height: 940px;
+    margin-top: -973px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-7 .u-image-11 {
     height: 940px;
-    margin-top: -1349px;
+    margin-top: -934px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -1130,22 +1121,19 @@
 
 @media (max-width: 991px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 1883px;
+    min-height: 1891px;
   }
 
   .u-section-7 .u-image-1 {
+    width: 1012px;
+    height: 1012px;
     margin-top: 0;
-    margin-right: -246px;
-    margin-left: 125px;
-  }
-
-  .u-section-7 .u-image-2 {
-    margin-top: -875px;
-    margin-left: -313px;
+    margin-right: 47px;
+    margin-left: -339px;
   }
 
   .u-section-7 .u-list-1 {
-    margin-top: -713px;
+    margin-top: -734px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -1156,29 +1144,64 @@
     grid-auto-columns: calc(50% - 11.499975px);
   }
 
-  .u-section-7 .u-image-8 {
+  .u-section-7 .u-text-2 {
+    width: 229px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-7 .u-text-4 {
+    width: 229px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-7 .u-text-6 {
+    width: 229px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-7 .u-text-8 {
+    width: 229px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-7 .u-text-10 {
+    width: 229px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-7 .u-image-7 {
     width: 720px;
     height: 720px;
-    margin-top: -1083px;
-    margin-right: -185px;
+    margin-top: -575px;
+    margin-left: -193px;
+  }
+
+  .u-section-7 .u-image-8 {
+    width: 899px;
+    height: 899px;
+    margin-top: -1264px;
+    margin-left: -275px;
   }
 
   .u-section-7 .u-image-9 {
-    width: 920px;
-    height: 920px;
-    margin-top: -777px;
-    margin-left: -291px;
+    margin-top: -1495px;
+    margin-right: -309px;
   }
 
   .u-section-7 .u-image-10 {
-    width: 806px;
-    height: 806px;
-    margin-top: -393px;
-    margin-left: -232px;
+    width: 720px;
+    margin-top: -439px;
+    margin-right: -185px;
+    margin-left: auto;
   }
 
   .u-section-7 .u-image-11 {
-    margin-top: -1993px;
+    margin-top: -1550px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -1187,27 +1210,18 @@
 
 @media (max-width: 767px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 2574px;
+    min-height: 2698px;
   }
 
   .u-section-7 .u-image-1 {
-    width: 923px;
-    height: 923px;
-    margin-top: 412px;
-    margin-left: -191px;
-    margin-right: -191px;
-  }
-
-  .u-section-7 .u-image-2 {
-    width: 980px;
-    height: 980px;
-    margin-top: -1449px;
-    margin-left: -220px;
-    margin-right: -220px;
+    height: 1044px;
+    width: 1044px;
+    margin-left: -252px;
+    margin-right: -252px;
   }
 
   .u-section-7 .u-list-1 {
-    margin-top: -723px;
+    margin-top: -759px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -1218,100 +1232,40 @@
     grid-auto-columns: calc(100% - 0px);
   }
 
-  .u-section-7 .u-image-3 {
-    margin-top: 33px;
-  }
-
-  .u-section-7 .u-text-1 {
-    margin-top: 16px;
-  }
-
-  .u-section-7 .u-text-2 {
-    width: 202px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .u-section-7 .u-image-4 {
-    margin-top: 33px;
-  }
-
-  .u-section-7 .u-text-3 {
-    margin-top: 16px;
-  }
-
-  .u-section-7 .u-text-4 {
-    width: 202px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .u-section-7 .u-image-5 {
-    margin-top: 33px;
-  }
-
-  .u-section-7 .u-text-5 {
-    margin-top: 16px;
-  }
-
-  .u-section-7 .u-text-6 {
-    width: 202px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .u-section-7 .u-image-6 {
-    margin-top: 33px;
-  }
-
-  .u-section-7 .u-text-7 {
-    margin-top: 16px;
-  }
-
-  .u-section-7 .u-text-8 {
-    width: 202px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
   .u-section-7 .u-image-7 {
-    margin-top: 33px;
-  }
-
-  .u-section-7 .u-text-9 {
-    margin-top: 16px;
-  }
-
-  .u-section-7 .u-text-10 {
-    width: 202px;
-    margin-left: auto;
-    margin-right: auto;
+    width: 787px;
+    height: 787px;
+    margin-top: -590px;
+    margin-left: -123px;
+    margin-right: -123px;
   }
 
   .u-section-7 .u-image-8 {
-    margin-top: -897px;
-    margin-left: -90px;
-    margin-right: -90px;
+    height: 711px;
+    width: 711px;
+    margin-top: -1129px;
+    margin-left: -86px;
+    margin-right: -86px;
   }
 
   .u-section-7 .u-image-9 {
-    width: 886px;
-    height: 886px;
-    margin-top: -1242px;
-    margin-left: -173px;
-    margin-right: -173px;
+    height: 818px;
+    width: 818px;
+    margin-top: -1650px;
+    margin-left: -139px;
+    margin-right: -139px;
   }
 
   .u-section-7 .u-image-10 {
-    width: 734px;
-    height: 734px;
-    margin-top: 8px;
-    margin-left: -97px;
-    margin-right: -97px;
+    height: 1159px;
+    width: 888px;
+    margin-top: -535px;
+    margin-left: -174px;
+    margin-right: -174px;
   }
 
   .u-section-7 .u-image-11 {
-    margin-top: -2748px;
+    margin-top: -2195px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -1320,27 +1274,19 @@
 
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 2469px;
+    min-height: 2619px;
   }
 
   .u-section-7 .u-image-1 {
-    width: 915px;
-    height: 915px;
-    margin-top: -129px;
-    margin-left: -287px;
-    margin-right: -287px;
-  }
-
-  .u-section-7 .u-image-2 {
-    width: 893px;
-    height: 893px;
-    margin-top: -408px;
-    margin-left: -276px;
-    margin-right: -276px;
+    height: 1063px;
+    width: 1063px;
+    margin-top: 2px;
+    margin-left: -361px;
+    margin-right: -361px;
   }
 
   .u-section-7 .u-list-1 {
-    margin-top: -1198px;
+    margin-top: -767px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -1350,32 +1296,40 @@
     grid-auto-columns: 100%;
   }
 
+  .u-section-7 .u-image-7 {
+    height: 766px;
+    width: 766px;
+    margin-top: -564px;
+    margin-left: -213px;
+    margin-right: -213px;
+  }
+
   .u-section-7 .u-image-8 {
-    width: 841px;
-    height: 841px;
-    margin-top: -1420px;
-    margin-left: -250px;
-    margin-right: -250px;
+    width: 656px;
+    height: 656px;
+    margin-top: -1094px;
+    margin-left: -158px;
+    margin-right: -158px;
   }
 
   .u-section-7 .u-image-9 {
-    width: 681px;
-    height: 681px;
-    margin-top: -308px;
-    margin-left: -170px;
-    margin-right: -170px;
+    width: 810px;
+    height: 810px;
+    margin-top: -1631px;
+    margin-left: -235px;
+    margin-right: -235px;
   }
 
   .u-section-7 .u-image-10 {
-    width: 730px;
-    height: 730px;
-    margin-top: -341px;
-    margin-left: -195px;
-    margin-right: -195px;
+    height: 1152px;
+    width: 882px;
+    margin-top: -527px;
+    margin-left: -271px;
+    margin-right: -271px;
   }
 
   .u-section-7 .u-image-11 {
-    margin-top: -2774px;
+    margin-top: -2279px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -1429,8 +1383,19 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 376px;
+  }
+
   .u-section-8 .u-text-1 {
-    width: 540px;
+    width: auto;
+    font-size: 4.5rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-8 .u-list-1 {
+    margin-bottom: 7px;
   }
 
   .u-section-8 .u-container-layout-1 {
@@ -1446,10 +1411,7 @@
 
   .u-section-8 .u-text-1 {
     font-size: 3rem;
-    width: auto;
     margin-top: 7px;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-8 .u-list-1 {
@@ -1464,7 +1426,7 @@
     font-size: 1.5rem;
   }
 } .u-section-9 {
-  background-image: url("/images/high9.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mostafa-commerce.appspot.com/o/carousel-Images%2Fhigh9.png?alt=media&token=2cc99cd1-503f-4727-b0ee-955d696e2751");
   background-position: 50% 50%;
 }
 
