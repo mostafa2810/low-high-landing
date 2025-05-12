@@ -1481,6 +1481,7 @@
 .u-section-9 .u-image-1 {
   width: 200px;
   height: 200px;
+  min-width: 48px;
   --radius: 50px;
   margin: 39px auto 0;
 }
